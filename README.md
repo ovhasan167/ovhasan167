@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm passionate about technology, cloud infrastructure, and
 - 👀 I’m interested in IT, cloud engineering, technical support.
 - 🌱 I’m currently learning AWS, Automation and Python to enhance my cloud infrastructure and automation skills.
 - 💞️ I’m looking to collaborate on open-source cloud projects, infrastructure-as-code.
-- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/ovihasan](https://www.linkedin.com/in/ovi-hasan/)
+- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/ovi-hasan/)
 
 - [Automate Infrastructure Deployment on AWS with Terraform](https://github.com/ovhasan167/AWS-CLI-Automation) - A project to automate the deployment of AWS infrastructure using Terraform.
 - [Credly Badges](https://www.credly.com/users/ovi-hasan.5fa91b14) - My certifications from AWS, CompTIA, Microsoft, Google
