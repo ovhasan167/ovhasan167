@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about technology, cloud infrastructure, and
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/ovihasan)
 
 - [Automate Infrastructure Deployment on AWS with Terraform](https://github.com/ovhasan167/AWS-CLI-Automation) - A project to automate the deployment of AWS infrastructure using Terraform.
-- [Credly Badges]((https://www.credly.com/users/ovi-hasan.5fa91b14)) - My certifications
+- [Credly Badges](https://www.credly.com/users/ovi-hasan.5fa91b14) - My certifications from AWS, CompTIA, Microsoft, Google
 
 Feel free to explore, open issues, or reach out for collaborations!
 
